@@ -1,8 +1,11 @@
-# pop_istat_griglia_chilometrica
+# popolazione istat grigliachilometrica
+
+-------->>>IN COSTRUZIONE<<<----------
+
 Griglia chilometrica con popolazione ISTAT clippata sui limiti amministrativi italiani e relativo aggiornamento delle statistiche
 
 
-## STATISTICHE SULLA POPOLAZIONE PER GRIGLIA REGOLARE CLIPPATE
+## Satistiche sulla popolazione per griglia regolare clippate
 
 L’Istat diffonde la distribuzione della popolazione legale relativa al censimento 2021 sulla griglia regolare, con celle di un 1 km². Tale diffusione ha un carattere provvisorio.
 
